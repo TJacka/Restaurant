@@ -141,6 +141,25 @@ h2 {
   height: 100vh;
 }
 
+.hours {
+  background: white;
+  height: 100vh;
+}
+
+.hours--inner {
+  text-align: center;
+}
+
+.test {
+  background: white;
+  height: 100vh;
+}
+
+.test--inner {
+  text-align: center;
+}
+
+
 footer {
 
 }
