@@ -44,12 +44,14 @@
   }
 
   form {
-    display: inline-block;
+    /* display: inline-block; */
+    display: flex;
   }
 
   .hero .form--left {
     height: 40px;
     width: 400px;
+    margin-right: 10px;
   }
 
   .hero .form--right {
